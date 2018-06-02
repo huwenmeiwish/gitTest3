@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Creating a new branch is quick.
 add a row on branch dev1
+add a row on branch dev2
