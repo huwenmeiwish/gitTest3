@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 Creating a new branch is quick.
 allen做的修改
 allen做的修改2:01
+allen做的修改2:16
