@@ -18,3 +18,4 @@ Creating a new branch is quick and simple.
 >>>>>>> feature1
 Creating a new branch is quick and simple.
 dev
+我正在做开发的工作
