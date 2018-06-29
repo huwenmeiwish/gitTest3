@@ -6,3 +6,4 @@ eeeee
 eeeee4
 develop5
 develop6
+Creating a new branch is quick.
