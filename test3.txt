@@ -11,3 +11,6 @@ Creating a new branch is quick.
 Creating a new branch is quick 2.
 dev2
 
+DEV3
+MASTER
+DEV4
