@@ -14,4 +14,8 @@ dev2
 DEV3
 MASTER
 DEV4
+<<<<<<< HEAD
 DEV55
+=======
+DEV5
+>>>>>>> dev5
